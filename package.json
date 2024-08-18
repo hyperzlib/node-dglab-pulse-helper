@@ -11,12 +11,16 @@
     "prepack": "npm run build",
     "cli": "tsx src/cli.ts"
   },
-  "keywords": [],
+  "keywords": ["DG-Lab", "Coyote", "DGLab Pulse"],
   "author": {
     "name": "Hyperzlib",
     "email": "hyperzlib@outlook.com"
   },
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hyperzlib/node-dglab-pulse-helper.git"
+  },
   "types": "dist/index.d.ts",
   "devDependencies": {
     "@types/js-yaml": "^4.0.9",
