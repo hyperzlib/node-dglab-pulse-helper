@@ -1,7 +1,7 @@
 {
-  "name": "dglab-pulse-helper",
+  "name": "@hyperzlib/node-dglab-pulse-helper",
   "version": "1.0.0",
-  "description": "",
+  "description": "DGLab Pulse QRCode parser",
   "bin": {
     "dglab-pulse-helper": "dist/cli.js"
   },
